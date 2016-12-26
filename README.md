@@ -5,4 +5,4 @@ A music app structure with three activities.
 
 ----------
 
-![App Screenshot](http://i.imgur.com/GyKJUSS.png?1)
+![App Screenshot](screenshot.png)
