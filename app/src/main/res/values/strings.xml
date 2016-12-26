@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music App</string>
+
+
+    <string name="title_activity_browse">Browse</string>
+    <string name="title_activity_playing">Playing</string>
+    <string name="title_activity_store">Store</string>
+
+    <string name="store_text">Shows all albums / songs with their prices. The checkout process can be integrated using: \nhttps://stripe.com/docs/mobile/android</string>
+    <string name="playing_text">Shows what is currently being played and which song is next (queue)</string>
+    <string name="browse">Browse music library and show recently played</string>
+</resources>
